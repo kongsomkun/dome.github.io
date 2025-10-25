@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <rect width="100%" height="100%" fill="#fff7ed" />
+  <rect x="40" y="40" width="520" height="320" rx="16" fill="#fbd38d" />
+  <text x="50%" y="86%" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#92400e" text-anchor="middle">pic05</text>
+</svg>
